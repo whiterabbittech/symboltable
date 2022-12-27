@@ -1,0 +1,8 @@
+[tasks.format]
+toolchain = "nightly"
+
+[tasks.fmt]
+alias = "format"
+
+[tasks.check-format]
+toolchain = "nightly"
